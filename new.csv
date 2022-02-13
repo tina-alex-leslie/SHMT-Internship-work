@@ -1,0 +1,87 @@
+Acupuncturist,[]
+Allergist (Immunologist),"['Ear Micro Surgery', 'Head And Neck Tumor / Cancer Surgery', 'Salivary Gland Surgery', 'Sinus Surgery', 'Surgery For Snoring']"
+Alternative Medicine,"['Ayurvedic Surgery', 'Treatment for Knee Joint Pain (Non Surgical)']"
+Andrologist,"['Prostate Laser Surgery', 'Surgery Of The Penis']"
+Anesthesiologist,[]
+Audiologist,[]
+AYUSH,"['Anal Fissure Surgery', 'Anal Fissure Treatment (Non-Surgical)', 'Ayurvedic Surgery', 'Fistula Surgery', 'Nail Surgery', 'Piles Surgery', 'Piles Treatment (Non Surgical)', 'Treatment for Knee Joint Pain (Non Surgical)']"
+Bariatric Surgeon,"['Abdominal Surgery', 'Anal Fissure Surgery', 'Colorectal Surgery', 'Diabetic Foot Treatment/Surgery', 'Endoscopic Surgery', 'Gall Bladder Surgery', 'Gallbladder Surgery', 'Gastric Bypass Surgery', 'Hernia Repair Surgery', 'Hernia Surgery', 'Intestine Surgery', 'Minimally Invasive Surgery', 'Piles Surgery', 'Piles Treatment (Non Surgical)', 'Pilonidal Sinus Surgery', 'Rectal Prolapse Surgery', 'Small Surgical Procedures', 'Thyroid Surgery', 'Weight Loss Surgical']"
+Best Gastroenterologist,"['Anal Fissure Treatment (Non-Surgical)', 'Gall Bladder Surgery', 'Laparoscopic Surgery', 'Piles Treatment (Non Surgical)']"
+Cardiologist,"['Coronary Angioplasty / Bypass Surgery', 'Open Heart Surgery', 'Reconstructive Middle Ear Surgery']"
+Cardiothoracic Surgeon,"['ASD Surgery', 'Bypass Surgery', 'Cardiac And Thoracic Surgery', 'Coronary Artery Bypass Surgery(CABG)', 'Minimally Invasive Cardiovascular Surgery(MICS)', 'Mitral Valve Replacement (MVR) Surgery', 'Open Heart Surgery', 'Surgery For Thoracic Aortic Aneurysm', 'Vascular Surgery']"
+Cosmetic Aesthetic Dentist,"['Dental Surgery', 'Endo Surgery Or Apicoectomy', 'Flap Surgery', 'Gum Disease Treatment/ Surgery', 'Laser Gum Surgery', 'Mucogingival Surgery', 'Oral & Maxillofacial Surgery', 'Oral Surgery Procedures', 'Orthognathic Surgery', 'Periodontal Flap Surgery', 'Preposthetic Surgery (Frenectomy)', 'Surgical Tooth Extraction']"
+Cosmetologist,"['Dermatologic Surgery Small', 'Hair Transplant Surgery', 'Laser Surgery', 'Nail Surgery', 'Skin Tag Surgical Removal']"
+Counselling Psychologist,['Ayurvedic Surgery']
+Dentist,"['Advanced Surgery In Implantology', 'Dental Surgery', 'Endo Surgery Or Apicoectomy', 'Flap Surgery', 'Gum Disease Treatment/ Surgery', 'Laser Gum Surgery', 'Mucogingival Surgery', 'Oral & Maxillofacial Surgery', 'Oral Surgery Procedures', 'Orthognathic Surgery', 'Periodontal Flap Surgery', 'Preposthetic Surgery (Frenectomy)', 'Surgical Extractions Of Teeth', 'Surgical Tooth Extraction', 'Tooth Impaction Surgery']"
+Dentofacial Orthopedic,"['Dental Surgery', 'Gum Disease Treatment/ Surgery', 'Laser Gum Surgery', 'Mucogingival Surgery', 'Oral Surgery Procedures', 'Orthognathic Surgery', 'Surgical Tooth Extraction', 'Tooth Impaction Surgery']"
+Dermatologist,"['Dermatologic Surgery Small', 'Hair Transplant Surgery', 'Laser Surgery', 'Nail Surgery', 'Skin Tag Surgical Removal', 'Surgical Dermatology']"
+Dietician ,[]
+Endodontist,"['Dental Surgery', 'Gum Disease Treatment/ Surgery', 'Gum Rejuvenation - Pinhole Surgical Technique', 'Laser Gum Surgery', 'Surgical Tooth Extraction', 'Tooth Impaction Surgery']"
+Fertility,"['Advanced Laparoscopic Surgery', 'Laparoscopic Surgery (OBS & GYN)']"
+Gastroenterologist,"['Anal Fissure Treatment (Non-Surgical)', 'Piles Treatment (Non Surgical)']"
+General Physician,['Pre-surgery Checkup / Pre-surgical Clearance']
+General Surgeon,"['Abdominal Surgery', 'Anal Fissure Surgery', 'Anorectal Surgery', 'Bariatric (Gastric Bypass) Surgery', 'Breast Surgery', 'Diabetic Foot Treatment/Surgery', 'Endoscopic Surgery', 'Endosurgery', 'Fistula Surgery', 'Gall Bladder Surgery', 'Gallbladder Surgery', 'Hernia Repair Surgery', 'Hernia Surgery', 'Laparoscopic Gastrointestinal Surgery', 'Laser Fissure Surgery', 'Liver Surgery', 'Minimally Invasive Surgery', 'Piles Surgery', 'Pilonidal Sinus Surgery', 'Rectal Prolapse Surgery', 'Robotic Surgery', 'Skin Lump Surgery', 'Small Surgical Procedures', 'Stomach Surgery', 'Thyroid Surgery', 'Vascular Laser Surgery']"
+Geriatric Physiotherapist,"['Acl Surgery', 'Post Surgery Physiotherapy/Rehabilitation']"
+Geriatric Psychiatrist,[]
+Gynecologist / Obstetrician,"['Abortion (Surgical)', 'Advanced Laparoscopic Surgery', 'Cancer Surgery', 'Dental Surgery', 'Gum Surgery', 'Laparoscopic Surgery (OBS & GYN)', 'Pre-Surgery Checkup / Pre-Surgical Clearance', 'Uterus Removal Surgery']"
+Hair Transplant,"['Dermatologic Surgery Small', 'Hair Transplant Surgery', 'Laser Surgery', 'Nail Surgery', 'Surgical Dermatology']"
+Hematologist,['Oncology Surgery']
+Homoeopathy,[]
+Implantologist,['Surgical Tooth Extraction']
+Internal Medicine,[]
+Interventional Cardiologist,"['Coronary Angioplasty / Bypass Surgery', 'Open Heart Surgery', 'Reconstructive Middle Ear Surgery']"
+Naturopathic Doctor,['Pre-surgery Checkup / Pre-surgical Clearance']
+Nephrologist,[]
+Neurologist,['Skull Base Surgery']
+Neuropsychiatrist,"['Brain Surgery', 'Neck Surgery Consultation', 'Neck Surgery Follow Up', 'Neurosurgery Consultation', 'Neurosurgery Follow Up', 'Skull Base Surgery', 'Spinal Cord Minimally Invasive Surgery', 'Spinal Cord Reconstructive Surgery', 'Spinal Cord Surgery', 'Spinal Cord Surgery Consultation']"
+Neurosurgeon,"['Dental Surgery', 'Epilepsy Surgery', 'Gum Surgery', 'Laser Gum Surgery', 'Neuro-oncological Surgery', 'Oral Surgery Consultation', 'Oral Surgery Follow Up', 'Osseous Surgery', 'Peripheral Neuro Surgery', 'Pre-surgery Checkup / Pre-surgical Clearance', 'Spinal Surgery', 'Spine Surgery']"
+Nurse Practitioner,['Pre-surgery Checkup / Pre-surgical Clearance']
+Occupational Therapist,[]
+Oncologist,"['Breast fibroadenoma surgery', 'Breast fibroadenoma surgery', 'Breast Surgery', 'Cancer Surgery', 'Diabetic Foot Treatment/Surgery', 'Diabetic Foot Treatment/Surgery', 'Endosurgery', 'Minor Surgery', 'Robotic Surgery', 'Thyroid Surgery']"
+Ophthalmologist,"['Anterior Segment Surgery', 'Anterior Segment Surgery', 'Bariatric (Gastric Bypass) Surgery', 'Cataract Surgery', 'Cataract Surgery', 'Corneal Surgery', 'Corneal Surgery', 'Eye Muscle Surgery', 'Eye Muscle Surgery', 'Eye Surgery', 'Eye Surgery', 'Eye Surgery Consultation', 'Eye Surgery Follow Up', 'Eyelid Surgery', 'Eyelid Surgery', 'Eyelid Surgery / Blepharoplasty', 'Laser Refractive & Cataract Surgery', 'Lasik Eye Surgery', 'Lasik Eye Surgery', 'Lasik Eye Surgery', 'Lasik Surgery', 'Lasik Surgery Consultation', 'Lasik Surgery Follow up', 'Microincision Vitreous Surgery', 'Microincision Vitreous Surgery', 'Refractive Surgery', 'Refractive Surgery Consultation', 'Refractive Surgery Follow Up', 'Retina Surgery Consultation', 'Revisional Eyelid Surgery Consultation']"
+Optometrist,"['Eye Surgery Consultation', 'Eye Surgery Follow Up', 'Eyelid Surgery / Blepharoplasty', 'Lasik Surgery', 'Lasik Surgery Consultation', 'Lasik Surgery Follow up', 'Refractive Surgery Consultation', 'Refractive Surgery Follow Up', 'Retina Surgery Consultation', 'Revisional Eyelid Surgery Consultation']"
+Oral Surgeon,"['Dental Surgery', 'Gum Surgery']"
+Orthodontist,"['Dental Surgery', 'Endo Surgery Or Apicoectomy', 'Gum Surgery', 'Jaw Surgery', 'Laser Gum Surgery', 'Mucogingival Surgery', 'Oral & Maxillofacial Surgery', 'Oral Surgery Consultation', 'Oral Surgery Follow Up', 'Oral Surgery Procedures', 'Orthognathic Surgery', 'Osseous Surgery', 'Periodontal Flap Surgery', 'Pre-Surgery Consultation', 'Surgical Tooth Extraction', 'Tooth Impaction Surgery']"
+Orthopedic,"['Acl Surgery', 'Hand Surgery', 'Open Reduction And Internal Fixation Surgery', 'Orthopedic Surgery', 'Shoulder Surgery']"
+Orthopedic Physiotherapist,['Post Surgery Physiotherapy/Rehabilitation']
+Otolaryngologist ,"['Adenoid / Tonsil Surgery', 'Reconstructive Middle Ear Surgery', 'Sinus Surgery']"
+Pain Management Specialist,['Failed Back Surgery Syndrome (FBSS)']
+Pediatric Cardiologist,[]
+Pediatric Dentistry,"['Dental Surgery', 'Endo Surgery Or Apicoectomy', 'Gum Disease Treatment/ Surgery', 'Laser Gum Surgery', 'Mucogingival Surgery', 'Oral & Maxillofacial Surgery', 'Orthognathic Surgery', 'Periodontal Flap Surgery', 'Preposthetic Surgery (Frenectomy)', 'Surgical Tooth Extraction']"
+Pediatric Physiotherapist,['Pediatric Pre-surgery Consultation']
+Pediatrician,"['Dental Surgery', 'Gum Disease Treatment/ Surgery', 'Surgical Tooth Extraction']"
+Periodontics,"['Dental Surgery', 'Endo Surgery Or Apicoectomy', 'Flap Surgery', 'Gum Disease Treatment/ Surgery', 'Gum Rejuvenation - Pinhole Surgical Technique', 'Laser Flap Surgery', 'Laser Gum Surgery', 'Mucogingival Surgery', 'Oral Surgery Procedures', 'Orthognathic Surgery', 'Periodontal Flap Surgery', 'Surgical Extractions Of Teeth', 'Surgical Tooth Extraction', 'Tooth Impaction Surgery']"
+Physiatrist (Physical Medicine),['Failed Back Surgery Syndrome (FBSS)']
+Physiotherapist,['Post Surgery Physiotherapy/Rehabilitation']
+Plastic Surgeon,"['Abdominal Wall Surgery', 'Aesthetic Surgery Consultation', 'Aesthetic Surgery Follow Up', 'Breast Microsurgery', 'Breast Revision Surgery', 'Breast Surgery', 'Cosmetic Surgery Consultation', 'Craniofacial Surgery Consultation', 'Ear Surgery / Otoplasty', 'Eyelid Surgery / Blepharoplasty', 'Face Reconstructive Surgery Consultation', 'Face Surgery Consultation', 'Face Surgery Follow Up', 'Facial Cosmetic Surgery Consultation', 'Hair Replacement Surgery', 'Hand Surgery Consultation', 'Hand Surgery Follow Up', 'Head Surgery Consultation', 'Head Surgery Follow Up', 'Mommy Makeover Surgery', 'Neck Surgery Consultation', 'Neck Surgery Follow Up', 'Nose Surgery', 'Pediatric Plastic Surgery Consultation', 'Plastic Surgery', 'Plastic Surgery Consultation', 'Plastic Surgery Follow Up', 'Reconstructive Surgery Consultation', 'Reconstructive Surgery Follow Up', 'Skin Cancer Surgery Or Correction']"
+Podiatrist (Foot and Ankle Specialist),"['Ankle Surgery', 'Brachymetatarsia / Toe Lengthening Surgery', 'Foot Surgery', 'Limb Salvage Surgery', 'Podiatric Surgery', 'Toe Shortening Surgery']"
+Prosthodontist,"['Dental Surgery', 'Dental Surgery', 'Endo Surgery Or Apicoectomy', 'Gum Surgery', 'Laser Gum Surgery', 'Laser Surgery', 'Mohs Surgery', 'Mucogingival Surgery', 'Oral & Maxillofacial Surgery', 'Oral & Maxillofacial Surgery', 'Surgical Tooth Extraction', 'Tooth Impaction Surgery']"
+Psychiatrist,[]
+Psychologist,[]
+Psychotherapist ,[]
+Pulmonologist (Lung Doctor),"['Mediastinal Adenopathy Surgery', 'Pre-Surgery Checkup / Pre-Surgical Clearance']"
+Radiation Oncologist,['Cancer Surgery']
+Radiologist,"['Ankle Surgery', 'Foot Surgery', 'Mohs Surgery', 'Podiatric Surgery']"
+Rheumatologist,['Pre-Surgery Checkup / Pre-Surgical Clearance']
+Sexologist,['Piles Treatment (Non Surgical)']
+Siddha,[]
+Sleep Medicine Specialist,['Pre-Surgery Checkup / Pre-Surgical Clearance']
+Speech,[]
+Spine Surgeon,"['Epilepsy Surgery', 'Neuro-oncological Surgery', 'Peripheral Neuro Surgery', 'Spinal Deformity Correction Surgery', 'Spinal Surgery', 'Spine Surgery']"
+Sports And Musculoskeletal Physiotherapist,['Post Surgery Physiotherapy/Rehabilitation']
+Sports Medicine Specialist,"['Flap Surgery', 'Laser Flap Surgery', 'Orthognathic Surgery']"
+Sports Nutritionist,[]
+Surgeon,"['Abdominal Surgery', 'Breast Surgery', 'Hip And Knee Surgery Consultation', 'Laparoscopic Surgery Consultation', 'Laparoscopic Surgery Follow Up', 'Robotic Surgery', 'Shoulder Surgery', 'Surgery Consultation', 'Surgery Follow Up', 'Surgery Second Opinion', 'Vascular Surgery']"
+Therapist / Counselor,[]
+Travel Medicine Specialist,['Pre-surgery Checkup / Pre-surgical Clearance']
+Trichologist,"['Dermatologic Surgery Small', 'Hair Transplant Surgery', 'Laser Surgery', 'Nail Surgery']"
+Ultrasonologist,[]
+Unani,[]
+Urgent Care Specialist,[]
+Urological Surgeon,"['Robotic Surgery', 'Urological Surgery Consultation']"
+Urologist,['Prostate Laser Surgery']
+Vascular Surgeon,"['Aortic Anuerysm Surgery / Endovascular Repair', 'Breast Cancer Surgery', 'Breast Surgery', 'Bypass Surgery Consultation - CABG', 'Cardiac And Thoracic Surgery', 'Carotid Surgery', 'Coronary Artery Bypass Surgery(CABG)', 'Dermatology Surgery', 'Minimally Invasive Surgery', 'Open Heart Surgery', 'Surgery Consultation', 'Surgery Follow Up', 'Surgery Second Opinion', 'Thoracic Surgery', 'Vascular Surgery', 'Vascular Surgery Consultation', 'Vascular Surgery Follow Up']"
+Venereologist,"['Dermatologic Surgery Small', 'Hair Transplant Surgery', 'Laser Surgery', 'Mohs Surgery', 'Nail Surgery']"
+Vet,['Surgical Procedures']
+Women's Health Nurse Practitioner,[]
+Wound Care Specialist,[]
